@@ -1,12 +1,8 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+My name is Eric Stieber, and I'm a senior at Lehigh University Studying Finance. Upon graduation, I will be working at KPMG as a Financial Services Advisory Associate.
 
 <!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
