@@ -12,7 +12,6 @@ My name is Eric Stieber, and I'm a senior at Lehigh University Studying Finance.
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="images/mt2.png?raw=true"/>
 
