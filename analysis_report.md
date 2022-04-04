@@ -1088,7 +1088,7 @@ print(plt)
 
 
     
-![png](output_67_1.png)
+![png](images/mt1.png)
     
 
 
@@ -1161,7 +1161,7 @@ print(plt)
 
 
     
-![png](output_71_1.png)
+![png](images/mt2.png)
     
 
 
@@ -1233,7 +1233,7 @@ print(plt)
 
 
     
-![png](output_75_1.png)
+![png](images/mt3.png)
     
 
 
@@ -1306,7 +1306,7 @@ print(plt)
 
 
     
-![png](output_79_1.png)
+![png](images/mt4.png)
     
 
 
@@ -1384,7 +1384,7 @@ print(plt)
 
 
     
-![png](output_83_1.png)
+![png](images/mt5.png)
     
 
 
