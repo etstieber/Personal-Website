@@ -12,7 +12,7 @@ My name is Eric Stieber, and I'm a senior at Lehigh University studying Finance.
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
-S&P500 firms COVID analysis through form 10-K's and returns 
+S&P500 firms COVID analysis through form 10-K's and stock returns 
 
 
 <img src="images/mt2.png?raw=true"/>
