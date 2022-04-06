@@ -19,7 +19,7 @@ S&P500 firms COVID analysis through form 10-K's and stock returns.
 
 ---
 
-_**[Team project](https://etstieber.github.io/Loan-Stars/)**_
+_**[Team Project](https://etstieber.github.io/Loan-Stars/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
